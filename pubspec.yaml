@@ -1,0 +1,28 @@
+name: posts_app
+description: A clean architecture approach.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  bloc: ^8.1.0
+  flutter_bloc: ^8.1.1
+  shared_preferences: ^2.0.15
+  http: ^0.13.5
+  get_it: ^7.2.0
+  internet_connection_checker: ^0.0.1+4
+  equatable: ^2.0.5
+  dartz: ^0.10.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
