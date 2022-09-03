@@ -1,6 +1,6 @@
 <h1>Posts App</h1>
 
-> This project is a simple application for the clean architecture in flutter as explained in this [Playlist](https://www.youtube.com/playlist?list=PLwJ4sQ79Ehm69Bmed-XrRCc-_H1R3nWhd)
+> This project is a simple application for the clean architecture in flutter as explained in this [playlist](https://www.youtube.com/playlist?list=PLwJ4sQ79Ehm69Bmed-XrRCc-_H1R3nWhd)
 
 > This project is powered by FLutter **3.0.5** and dart **2.17.6**. And is built using [{JSON} Placeholder Api](https://jsonplaceholder.typicode.com/).
 
